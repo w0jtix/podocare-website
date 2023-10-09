@@ -164,7 +164,7 @@ header {
 
 @media screen and (min-width: 1801px) {
     .header_nav_menu {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 
@@ -922,6 +922,11 @@ footer {
         width: 78%;
         font-size: 14px;
         word-spacing: 0.75px;
+    }
+
+    .home_s2_h1 {
+        width:90%;
+        margin: auto;
     }
 
     .home_s2_row1,
@@ -1709,17 +1714,18 @@ footer {
 @media screen and (max-width: 768px) {
     .uslugi_opisy_sekcja {
         width:100%;
-        padding-top: 30px;
+        padding-top: 10px;
     }
 
     .uslugi_opisy_sekcja:first-of-type {
-        padding-top:30px;
+        padding-top:20px;
     }
 
     .uslugi_opisy_title_text {
-        width:97%;
+        width:90%;
         font-size: 26px;
         padding-top: 20px;
+        padding-bottom: 25px;
         margin: auto;
         line-height: 35px;
         grid-template-columns: 1fr;
