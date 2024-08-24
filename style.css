@@ -1459,9 +1459,9 @@ footer {
 }
 
 .uslugi_sekcja_li {
-    padding-top: 25px;
+    padding-top: 40px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 22px;
+    font-size: 25px;
     letter-spacing: 0.5px;
     display: grid;
     grid-template-columns: 1fr auto 1fr;
@@ -1470,7 +1470,7 @@ footer {
 }
 
 .uslugi_sekcja_li:last-of-type{
-    padding-bottom: 30px;
+    padding-bottom: 40px;
 }
 
 .dot_icon {
